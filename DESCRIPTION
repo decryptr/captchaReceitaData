@@ -1,0 +1,9 @@
+Package: captchaReceitaData
+Title: Contém todos os arquivos brutos de captchaReceita.
+Version: 0.0.0.9000
+Authors@R: person("Julio", "Trecenti", email = "j@jtrecenti.com", role = c("aut", "cre"))
+Description: Esse pacote contém todos os arquivos brutos de áudio e img para o captchaReceita. Trata-se apenas de um placeholder e não possui funções.
+Depends: R (>= 3.3.1)
+License: GNU
+Encoding: UTF-8
+LazyData: true
