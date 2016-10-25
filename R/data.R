@@ -1,0 +1,16 @@
+#' @name captchaReceitaData
+#' @title captchaReceitaData
+#'
+#' @description Este pacote contem dados marcados de captchas
+#' da Receita Federal.
+#'
+#' Temos dados classificados de imagens e audios.
+#' Eles podem ser acessados por meio da função \code{system.file}.
+#'
+#' O nome do arquivo (imagem ou audio) identifica os caracteres
+#' que estão na imagem/audio.
+#'
+#' @examples
+#' head(list.files(system.file("audio/", package = "captchaReceitaData")))
+#' head(list.files(system.file("img/", package = "captchaReceitaData")))
+NULL
